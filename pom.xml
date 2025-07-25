@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://52.209.126.49:8081/repository/jio-release-repo/</url>
+	      <url>http://13.42.47.223:8081/repository/usha-Release-Repository/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://52.209.126.49:8081/repository/jio-snapshot-repo/</url>
+	      <url>http://13.42.47.223:8081/repository/Usha-Snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
