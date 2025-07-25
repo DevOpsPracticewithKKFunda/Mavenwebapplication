@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Siddu DevOps Hyderabad</h1>
+<h1 align="center">Welcome to Siddu DevOps Thallada</h1>
 <h1 align="center"> KK FUNDA</h1>
 <hr>
 <br>
