@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Ammu DevOps</h1>
+<h1 align="center">Welcome to Siddu DevOps</h1>
 <h1 align="center"> KK FUNDA</h1>
 <hr>
 <br>
