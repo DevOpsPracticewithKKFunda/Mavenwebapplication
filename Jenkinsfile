@@ -33,7 +33,7 @@ pipeline {
         stage('Deploy App To Tomcat') {
             steps {
                 sh '''
-                curl -u naga:Password --upload-file /var/lib/jenkins/workspace/DelcarativePL/target/maven-web-application.war \
+                curl -u naga:Password --upload-file /var/lib/jenkins/workspace/DeclarativePL/target/maven-web-application.war \
                 "http://35.179.173.8:8080/manager/text/deploy?path=/maven-web-application&update=true"
                 '''
             }
